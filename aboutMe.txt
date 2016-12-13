@@ -3,3 +3,5 @@ Goal: Master Git
 Favorite TV show: Dexter
 
 This is a short bio.
+
+My favorite movie is Pulp Fiction.
